@@ -10,7 +10,7 @@ This project was built in C# using Microsoft Asp.Net Core (v2.2) with Entity Fra
 
 ## Getting Started
 
-(coming soon)
+LabManager has been deployed to Microsoft Azure. You may view it here: https://labmanager.azurewebsites.net/
 
 ### Login
 
@@ -22,7 +22,7 @@ If you do not have an account, you must first register.
 
 You may also login with the following sample credentials:
 
-Username: `labmanager@email.com"`
+Username: `labmanager@email.com`
 Password: `LabManager1!`
 
 
@@ -41,6 +41,8 @@ When choosing Chemicals, you will be redirected to the Chemicals display. This w
 
 
 If you wish to see which chemicals are expiring soon or when the most recent chemicals were received, you may use the up and down arrows on a given column to sort chemicals according to your preferred view. Chemicals are sorted by most-recently-added by default.
+
+If you wish to return to your dashboard from the chemicals page, simply click `LabManager` in the left corner of the Navbar.
 
 
 #### Creating a Chemical
@@ -76,6 +78,8 @@ If a given chemical should be removed from the inventory, it can be deleted by c
 
 
 ### Lab Items
+
+
 
 #### Creating a Lab Item
 
